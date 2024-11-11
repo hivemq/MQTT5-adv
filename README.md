@@ -5,3 +5,4 @@ MQTT 5 introduces a range of features designed to improve the flexibility, effic
 
 This blog serves as a practical example of implementing some of the features discussed in the  [Optimizing Data Cost Efficiency in MQTT-Based IoT and Connected Systems](https://www.hivemq.com/blog/optimizing-data-cost-efficiency-mqtt-based-iot-connected-systems/) by HiveMQ’s Francisco Menéres.
 
+Enschede, 11 nov 2024 / Kamiel Straatman

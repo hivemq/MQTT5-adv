@@ -1,7 +1,7 @@
 # MQTT5-adv
 Code repo accompanying HiveMQ blog 'Underutilized MQTT5 features that enhance modern IoT data flows'
 
-link:https://www.hivemq.com/blog/iot-tutorial-bidirectional-mqtt-communication-esp32/
+link to blog : https://www.hivemq.com/blog/underutilized-mqtt-5-features-enhance-iot-data-flows/
 
 MQTT 5 introduces a range of features designed to improve the flexibility, efficiency, and functionality of the MQTT protocol, especially for IoT (Internet of Things) and high-frequency API applications. Key enhancements include the Topic Alias and the Request-Response Pattern, both of which aim to optimize messaging and enhance secure communication. 
 
